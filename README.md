@@ -13,8 +13,18 @@
 - 🎓 I'm a Software Engineering student  
 - 💻 Currently learning **Frontend & Backend fundamentals**  
 - 🚀 Aspiring **Full Stack Developer**  
-- 📚 Always improving my skills and building projects  
-- 🤝 Open to collaboration and learning new things  
+- 📚 Always improving my programming skills  
+- 🤝 Open to collaboration and building new projects  
+
+---
+
+### 🛠 Skills
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-black?style=for-the-badge)
 
 ---
 
